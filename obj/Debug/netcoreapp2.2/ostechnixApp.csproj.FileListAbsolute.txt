@@ -1,0 +1,11 @@
+/root/ostechnixApp/bin/Debug/netcoreapp2.2/ostechnixApp.deps.json
+/root/ostechnixApp/bin/Debug/netcoreapp2.2/ostechnixApp.runtimeconfig.json
+/root/ostechnixApp/bin/Debug/netcoreapp2.2/ostechnixApp.runtimeconfig.dev.json
+/root/ostechnixApp/bin/Debug/netcoreapp2.2/ostechnixApp.dll
+/root/ostechnixApp/bin/Debug/netcoreapp2.2/ostechnixApp.pdb
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.csprojAssemblyReference.cache
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.csproj.CoreCompileInputs.cache
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.AssemblyInfoInputs.cache
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.AssemblyInfo.cs
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.dll
+/root/ostechnixApp/obj/Debug/netcoreapp2.2/ostechnixApp.pdb
